@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPwK3vEVnRUS205yFU2e4iAAAAAACAAAAAAAQZgAAAAEAACAAAACaZwOrTSIDY5+7z5bzkhNWa+p59oqeN9UIO9dgPXiVfAAAAAAOgAAAAAIAACAAAACXuQMMOizljPoQ0gtBghBbfAhZkGrthUMKI+Q9jrxZ5yAAAABAsd94bqP7iwfEtvYIQMevu+EHq9LtQimAWtT9jUuwTkAAAACGEF63zBGbWJdYH64OmzwTLtL+UncvUaSHsKJw2xcSI0tU8TzxDkLmkgyWPUY7LFBRnRxQEAtK9ytygXamwyps</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ppa-system.somee.com/C:\PPA</_PublishTargetUrl>
+    <History>False|2022-12-06T16:02:25.7071321Z;False|2022-12-06T17:56:05.5706334+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
